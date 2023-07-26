@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">a self-taught developer and a eager student in HTML, CSS, JavaScript and TypeScrip, but I'm gonna to be honest I love Astro. Currently, I'm completing FronendMaster Talento Digital bootcamps.</h3>
+<h3 align="center">a self-taught developer and an eager student in HTML, CSS, JavaScript, and TypeScrip, but I'm gonna be honest I love Astro. Currently, I'm completing FronendMaster and Talento Digital Bootcamp.</h3>
 
-- 🌱 I’m currently learning **Jasvascript, Typescritp, CSS, HTML and Astro**
+- 🌱 I’m currently learning **Javascript, Typescript, CSS, HTML, and Astro**
 
 - 💬 Ask me about **Astro**
 
